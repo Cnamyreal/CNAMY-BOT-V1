@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const words = ['javascript', 'bot', 'hangman', 'whatsapp', 'nodejs'];
+const words = ['javascript', 'CNAMY-BOT-V1', 'hangman', 'whatsapp', 'CnamyIsBest', 'nodejs'];
 let hangmanGames = {};
 
 function startHangman(sock, chatId) {
