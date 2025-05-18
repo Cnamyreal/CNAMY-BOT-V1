@@ -5,10 +5,9 @@ const path = require('path');
 async function helpCommand(sock, chatId, channelLink) {
     const helpMessage = `
 ╔═══════════════════╗
-   *🤖 ${settings.botName || 'KnightBot-MD'}*  
+   *😘 ${settings.botName || 'CNAMY-BOT-V1'}*  
    Version: *${settings.version || '1.0.0'}*
-   by ${settings.botOwner || 'Mr Unique Hacker'}
-   YT : ${global.ytch}
+   by ${settings.botOwner || 'CnamyJesus_Rpg'}
 ╚═══════════════════╝
 
 *Available Commands:*
@@ -162,8 +161,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                        newsletterName: 'CNAMY-BOT-V1 MD by CnamyJesus_Rpg',
                         serverMessageId: -1
                     }
                 }
@@ -176,8 +175,8 @@ Join our channel for updates:`;
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD by Mr Unique Hacker',
+                        newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                        newsletterName: 'CNAMY-BOT-V1 MD by CnamyJesus_Rpg',
                         serverMessageId: -1
                     } 
                 }
