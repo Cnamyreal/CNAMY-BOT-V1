@@ -25,7 +25,7 @@ async function stickerCommand(sock, chatId, message) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterName: 'CNAMY-BOT-V1',
                     serverMessageId: -1
                 }
             }
@@ -47,7 +47,7 @@ async function stickerCommand(sock, chatId, message) {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterName: 'CNAMY-BOT-V1',
                         serverMessageId: -1
                     }
                 }
@@ -98,7 +98,7 @@ async function stickerCommand(sock, chatId, message) {
         const json = {
             'sticker-pack-id': crypto.randomBytes(32).toString('hex'),
             'sticker-pack-name': settings.packname || 'KnightBot',
-            'emojis': ['🤖']
+            'emojis': ['😘']
         };
 
         // Create exif buffer
@@ -135,7 +135,7 @@ async function stickerCommand(sock, chatId, message) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterName: 'CNAMY-BOT-V1',
                     serverMessageId: -1
                 }
             }
