@@ -45,7 +45,7 @@ async function takeCommand(sock, chatId, message, args) {
             const json = {
                 'sticker-pack-id': crypto.randomBytes(32).toString('hex'),
                 'sticker-pack-name': packname,
-                'emojis': ['🤖']
+                'emojis': ['😘']
             };
 
             // Create exif buffer
