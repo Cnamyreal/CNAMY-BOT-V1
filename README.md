@@ -9,8 +9,8 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@ryu028-b5t?si=xAKXFhhEtcM2QL_E"> 
-    <img src="https://i.ibb.co/Z6Jqsh74/file-0000000028cc624697f14bb843a1d7c6.png" alt="CNAMY-BOT-V1" height="300"> 
+  <a href="https://i.ibb.co/Z6Jqsh74/file-0000000028cc624697f14bb843a1d7c6.png"> 
+    <img src="https://github.com/Cnamy-rpg/CNAMY-BOT-V1" alt="CNAMY-BOT-V1" height="300"> 
   </a> 
 </div>
 
