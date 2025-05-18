@@ -5,13 +5,13 @@ async function pairCommand(sock, chatId, message, q) {
     try {
         if (!q) {
             return await sock.sendMessage(chatId, {
-                text: "Please provide valid WhatsApp number\nExample: .pair 91702395XXXX",
+                text: "Please provide valid WhatsApp number\nExample: .pair 491608888XXX",
                 contextInfo: {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                        newsletterName: 'CNAMY-BOT-V1',
                         serverMessageId: -1
                     }
                 }
@@ -29,8 +29,8 @@ async function pairCommand(sock, chatId, message, q) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                        newsletterName: 'CNAMY-BOT-V1',
                         serverMessageId: -1
                     }
                 }
@@ -48,8 +48,8 @@ async function pairCommand(sock, chatId, message, q) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363161513685998@newsletter',
-                            newsletterName: 'KnightBot MD',
+                            newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                            newsletterName: 'CNAMY-BOT-V1',
                             serverMessageId: -1
                         }
                     }
@@ -62,8 +62,8 @@ async function pairCommand(sock, chatId, message, q) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                        newsletterName: 'CNAMY-BOT-V1',
                         serverMessageId: -1
                     }
                 }
@@ -85,8 +85,8 @@ async function pairCommand(sock, chatId, message, q) {
                             forwardingScore: 1,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
-                                newsletterJid: '120363161513685998@newsletter',
-                                newsletterName: 'KnightBot MD',
+                                newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                                newsletterName: 'CNAMY-BOT-V1',
                                 serverMessageId: -1
                             }
                         }
@@ -106,8 +106,8 @@ async function pairCommand(sock, chatId, message, q) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363161513685998@newsletter',
-                            newsletterName: 'KnightBot MD',
+                            newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                            newsletterName: 'CNAMY-BOT-V1',
                             serverMessageId: -1
                         }
                     }
@@ -122,8 +122,8 @@ async function pairCommand(sock, chatId, message, q) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                    newsletterName: 'CNAMY-BOT-V1',
                     serverMessageId: -1
                 }
             }
