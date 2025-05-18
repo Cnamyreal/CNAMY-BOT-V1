@@ -103,7 +103,7 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363161513685998@newsletter',
+            newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
             newsletterName: 'Cnamy-Bot-V1',
             serverMessageId: -1
         }
