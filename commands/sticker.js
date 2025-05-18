@@ -24,8 +24,8 @@ async function stickerCommand(sock, chatId, message) {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                    newsletterName: 'CNAMY-BOT-V1',
                     serverMessageId: -1
                 }
             }
@@ -46,8 +46,8 @@ async function stickerCommand(sock, chatId, message) {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363161513685998@newsletter',
-                        newsletterName: 'KnightBot MD',
+                        newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                        newsletterName: 'CNAMY-BOT-V1',
                         serverMessageId: -1
                     }
                 }
@@ -97,8 +97,8 @@ async function stickerCommand(sock, chatId, message) {
         // Create metadata
         const json = {
             'sticker-pack-id': crypto.randomBytes(32).toString('hex'),
-            'sticker-pack-name': settings.packname || 'KnightBot',
-            'emojis': ['🤖']
+            'sticker-pack-name': settings.packname || 'CNAMY-BOT-V1',
+            'emojis': ['😘']
         };
 
         // Create exif buffer
@@ -134,8 +134,8 @@ async function stickerCommand(sock, chatId, message) {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterJid: '0029Vb6AYn8CcW4pDk4lcI2e@newsletter',
+                    newsletterName: 'CNAMY-BOT-V1',
                     serverMessageId: -1
                 }
             }
