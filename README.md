@@ -22,7 +22,10 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
   <a href="https://chat.whatsapp.com/IiabHPeEmpI5o6vHWfCEJe">
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
-</div>
+</div align="center">
+  <a href="https://www.instagram.com/roni_rxo?igsh=MThvaTZjOTlnNHhtaw==">
+    <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
+  </a>
 
 ---
 
