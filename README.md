@@ -23,7 +23,17 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
     <img src="https://img.shields.io/badge/Join%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp"/>
   </a>
 </div>
+const { default: w, useSingleFileAuthState } = require("@whiskeysockets/baileys");
+const { state, saveState } = useSingleFileAuthState('./auth.json');
 
+w({ auth: state, printQRInTerminal: true }).ev.on("messages.upsert", async ({ messages }) => {
+  let m = messages[0], t = m.message?.conversation || m.message?.extendedTextMessage?.text;
+  if (!t?.toLowerCase().includes("join us") || m.key.fromMe) return;
+  await w({ auth: state }).sendMessage(m.key.remoteJid, {
+    image: { url: "https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" }, // ersetze mit deinem Logo-Link
+    caption: "Folge uns auf Instagram:\nhttps://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png"
+  });
+});
 ---
 
 ## ⚙️ Features
