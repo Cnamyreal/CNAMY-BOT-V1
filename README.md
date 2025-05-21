@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://github.com/Cnamy-rpg/CNAMY-BOT-V1"> 
-    <img src="https://github.com/Cnamy-rpg/CNAMY-BOT-V1/blob/main/assets/file_0000000028cc624697f14bb843a1d7c6.png?raw=true" alt="CNAMY-BOT-V1" height="300"> 
+    <img src="https://github.com/Cnamyreal/CNAMY-BOT-V1/blob/main/assets/Snapchat-2109335950.jpg" alt="CNAMY-BOT-V1" height="300"> 
   </a> 
 </div>
 
