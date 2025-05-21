@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://github.com/Cnamy-rpg/CNAMY-BOT-V1"> 
-    <img src="https://github.com/Cnamyreal/CNAMY-BOT-V1/blob/main/assets/Snapchat-2109335950.jpg" alt="CNAMY-BOT-V1" height="300"> 
+    <img src="https://github.com/Cnamyreal/CNAMY-BOT-V1/blob/main/assets/bot_image.jpg" alt="CNAMY-BOT-V1" height="300"> 
   </a> 
 </div>
 
@@ -31,7 +31,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 <div align="center"> 
   <a href="https://www.instagram.com/roni_rxo?igsh=MThvaTZjOTlnNHhtaw=="> 
     <img
-src=https://github.com/Cnamyreal/CNAMY-BOT-V1/blob/61274cfd52cc3ecf59e210ff1a8d46d11d421f4e/assets/Snapchat-2109335950.jpg" alt="Ronis Instagram" height="300"> 
+src=https://github.com/Cnamyreal/CNAMY-BOT-V1/blob/main/assets/Snapchat-2109335950.jpg" alt="Ronis Instagram" height="300"> 
 
 ---
 
