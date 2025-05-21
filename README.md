@@ -28,6 +28,10 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
     <img src="https://instagram-brand.com/wp-content/uploads/2016/11/Instagram_AppIcon_Aug2017.png" alt="Join Roni's Instagram"/>
   </a>
 </div>
+<div align="center"> 
+  <a href="https://www.instagram.com/roni_rxo?igsh=MThvaTZjOTlnNHhtaw=="> 
+    <img
+src=https://github.com/Cnamy-rpg/CNAMY-BOT-V1/blob/main/assets/file_0000000028cc624697f14bb843a1d7c6.png?raw=true" alt="Ronis Instagram" height="300"> 
 
 ---
 
